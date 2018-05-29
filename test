@@ -1,0 +1,3 @@
+var dmob = {
+	"SA-2": {"range": "2NM","components": "2 stuffs"}
+}
