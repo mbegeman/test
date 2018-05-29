@@ -1,1 +1,4 @@
-var dmob = {"range": "2NM","components": "2 stuffs"}
+{
+"range": "2NM",
+"components": "2 stuffs"
+}
